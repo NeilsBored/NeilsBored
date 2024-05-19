@@ -6,7 +6,8 @@ I’m currently learning ...computer like things and some chemistry.
 
 I’m looking to collaborate on ...anything that you could use help with.
 
-How to reach me ...shanej@protonmail.com
+How to reach me ... shanej@protonmail.com
+
 
 I’m Nobody! Who are you?
 Are you – Nobody – too?
@@ -17,4 +18,5 @@ How dreary – to be – Somebody!
 How public – like a Frog –
 To tell one’s name – the livelong June –
 To an admiring Bog!
+
 -Emily Dickinson
