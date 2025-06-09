@@ -1,16 +1,15 @@
-Hi, I’m @NeilsBored
+<h2>Hi, I’m @NeilsBored</h2>
 
-I’m interested in ...always growing my knowledge base (mostly machine learning lately).
+<b>I’m interested in</b> ...always growing my knowledge base (mostly machine learning lately). <br> <br>
+<b>I’m currently learning</b> ...Chemical Engineering in my free time, because I miss my previous major :(
 
-I’m currently learning ...Chemical Engineering in my free time, because I miss my previous major :(
+<b>I’m looking to collaborate on</b> ...anything that you could use help with.
 
-I’m looking to collaborate on ...anything that you could use help with.
-
-How to reach me ... srossjohn@protonmail.com
-
+<b>How to reach me</b> ... srossjohn@protonmail.com
 
 
-I’m Nobody! Who are you?
+<br><br>
+<p>I’m Nobody! Who are you?
 Are you – Nobody – too?
 Then there’s a pair of us!
 Don't tell! they'd advertise – you know!
@@ -18,6 +17,6 @@ Don't tell! they'd advertise – you know!
 How dreary – to be – Somebody!
 How public – like a Frog –
 To tell one’s name – the livelong June –
-To an admiring Bog!
+To an admiring Bog!</p>
 
--Emily Dickinson
+<b>-Emily Dickinson</b>
