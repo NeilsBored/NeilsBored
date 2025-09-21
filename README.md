@@ -35,8 +35,7 @@ Bring your domain problem; I’ll bring code, questions, and a bias for shipping
   https://github.com/NeilsBored/Don-t-Panic
 
 ---
-
-<br><br>
+<br>
 <p>I’m Nobody! Who are you?
 Are you – Nobody – too?
 Then there’s a pair of us!
