@@ -1,12 +1,40 @@
-<h2>Hi, I’m @NeilsBored</h2>
+# Hi, I'm Shane (aka @NeilsBored) 👋
 
-<b>I’m interested in</b> ...always growing my knowledge base (mostly machine learning lately). <br> <br>
-<b>I’m currently learning</b> ...Chemical Engineering in my free time, because I miss my previous major :(
+"Engineer–coder" exploring the seam between **AI, graphics, and human-interactive automation**.  
+I like problems with real-world constraints and visible outcomes.
 
-<b>I’m looking to collaborate on</b> ...anything that you could use help with.
+---
 
-<b>How to reach me</b> ... srossjohn@protonmail.com
+### What I’m building
+- **Small, sharp tools** that make teams faster — from ML-flavored analytics to workflow automation.
+- **Interactive/graphics experiments** that blend aesthetics with systems thinking.
+- Occasional **embedded/IoT** tinkering when it helps close the loop with the physical world.
 
+### Learning (right now)
+- Practical machine learning: model evaluation, data plumbing, and deployment patterns.
+- GPU/graphics pipelines for real-time, human-in-the-loop systems.
+- Better product habits: road-mapping, instrumentation, and measurable outcomes.
+
+### Collaborate with me
+I’m open to thoughtful projects where the goal is clear, the impact is real, and the repo stays tidy.  
+Bring your domain problem; I’ll bring code, questions, and a bias for shipping.
+
+### Reach me
+**Email:** srossjohn@protonmail.com
+
+---
+
+### Selected projects
+- **HalfMonte_smol** — Market-risk mini-suite inspired by Monte Carlo ideas (Java)  
+  https://github.com/NeilsBored/HalfMonte_smol
+- **TigersEatz** — Dining app UX prototype (Swift)  
+  https://github.com/NeilsBored/TigersEatz
+- **CPSC3750** — Web app development labs & exercises  
+  https://github.com/NeilsBored/CPSC3750
+- **Don-t-Panic** — Notes & experiments toward networked time-series analytics  
+  https://github.com/NeilsBored/Don-t-Panic
+
+---
 
 <br><br>
 <p>I’m Nobody! Who are you?
