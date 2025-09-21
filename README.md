@@ -37,7 +37,7 @@ Bring your domain problem; I’ll bring code, questions, and a bias for shipping
 ---
 <p> “Every great and deep difficulty bears in itself it’s own solution. 
   It forces us to change our thinking in order to find it.” </p>
-<b>― Niels Bohr</b>
+<b>-Niels Bohr</b>
 
 <br>
 <br>
